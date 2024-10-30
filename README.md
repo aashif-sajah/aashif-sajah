@@ -23,4 +23,4 @@
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aashif-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aashif-181118268/)
 [![Twitter](https://img.shields.io/badge/Twitter-@cliffadvent-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/cliffadvent)
-[![Instagram](https://img.shields.io/badge/Instagram-cliff.adventurer_%23E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/cliff.adventurer_/)
+[![Instagram](https://img.shields.io/badge/Instagram-cliff.adventurer-%23E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/cliff.adventurer_/)
