@@ -7,10 +7,12 @@
 - 💻 Currently building with Python, Linux, Java, and ROS
 
 ### Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)  
+![H2](https://img.shields.io/badge/-H2-2F4F4F?style=flat-square&logo=h2&logoColor=white)  
+![Angular](https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=angular&logoColor=white)  
+
 
 ### Projects
 - [OOPTutHub](https://github.com/aashif-sajah/OOPTutHub) — An open-source project to help juniors with OOP tutorials.
