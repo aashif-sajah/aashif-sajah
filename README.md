@@ -6,7 +6,7 @@
 - 💼 Founder of **iframes.lk**, a creative business selling framed iPhones online  
 - 💻 Currently building with Java, Spring Boot, Angular, and MySQL  
 - 🌍 Exploring opportunities in Dubai to grow my businesses and gain market insights  
-- 📈 Interested in web development, SMMA, and exporting unique products like jackfruit seeds, fish, and coconut-husk charcoal  
+- 📈 Interested in web development, SMMA
 - 🛠️ On a mission to turn ideas into impactful startups while mastering the latest tech tools  
 
 ### Tech Stack  
